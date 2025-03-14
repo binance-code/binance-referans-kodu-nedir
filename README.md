@@ -4,9 +4,8 @@
 
 Binance en yüksek referans kodu QW3N65RC olarak kullanılmaktadır. Dünyanın en iyi ve ömür boyu en düşük işlem ücreti ödeyeceğiniz binance referans kodudur. Referans kodları, Binance borsasında daha düşük komisyon ödemenize olanak sağlayan benzersiz harf ve sayı kombinasyonlarından oluşmaktadır.
 
-| Özellik            | Detaylar                |
+| Kripto para borsası| Binance    |
 |----------------|--------------------|
-| **Kripto Para Borsası** | Binance |
 | **Referans Kodu** | QW3N65RC |
 | **Komisyon İndirimi** | %20 |
 | **Kayıt Bonusu** | 100$ |
